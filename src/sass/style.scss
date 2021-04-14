@@ -1,0 +1,15 @@
+
+
+* {
+   margin: 0;
+   padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+@import 'blocks/countries.scss';
+@import 'blocks/carousel';
+@import 'blocks/button.scss';
